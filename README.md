@@ -195,6 +195,8 @@ craeted json files:
 
 # COVERAGE:
 
+- This is my wikiHow link. I got this from output.
+
 ![image](https://github.com/HSP24SCM69K/IR_PROJECT/assets/159409891/7a01aef6-14a4-4eeb-9d26-1856e623fe51)
 
 # SOURCE CODE: my main.py file
