@@ -2,7 +2,7 @@
 
 - **HARINI KORADA**
 - **CWID: A20546869**
-
+- **my github repo link: https://github.com/HSP24SCM69K/IR_PROJECT/blob/main/README.md**
 ## Abstract
 
 The project's goal is to create an extensive information retrieval system capable of traversing web documents, indexing them, and handling text queries. It comprises three primary components: a Scrapy-powered crawler for fetching web content, a Scikit-Learn-based indexer for building an inverted index, and a Flask-driven processor for managing user queries. The crawler is configured with seed URLs and parameters like maximum pages and depth, supporting concurrent and distributed crawling. The indexer utilizes TF-IDF scoring and cosine similarity for search indexing, with optional functionalities like word2vec embedding representation and kNN similarity using FAISS. The processor validates and prioritizes user queries, offering optional features such as spelling correction and query expansion. The objective is to deliver a scalable and effective information retrieval solution for diverse scenarios, with potential enhancements through hyperparameter tuning and addressing time constraints from external APIs.
