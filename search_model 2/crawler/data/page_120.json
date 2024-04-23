@@ -1,0 +1,57 @@
+{
+    "link": "https://www.wikihow.com/Make-a-Compass",
+    "article": "How to Make a Compass",
+    "intro": "The magnetic compass is an ancient navigational tool used to indicate the four cardinal directions: north, south, east and west. It's composed of a magnetized needle that aligns itself with the earth's magnetic field to point north. If you find yourself lost without a compass, you can easily make your own using a piece of magnetized metal and a bowl of water .",
+    "points": [
+        {
+            "name": "Gathering Supplies",
+            "steps": []
+        },
+        {
+            "name": "Making the Compass",
+            "steps": [
+                {
+                    "step": "3",
+                    "title": "Float the compass.",
+                    "subtitle": " Fill a bowl or jar with a few inches of water and place the compass on the water. The magnetized needle will align itself with the earth's magnetic field to point north to south.",
+                    "sub-points": [
+                        "If a breeze hits the compass, it may have trouble aligning itself north to south. Try to shield the compass from wind by using a deeper jar or bowl.",
+                        "Currents will also disturb the direction of the compass, so you can't expect to get an accurate reading if you suspend it in a lake or pond. You might be able to use a still puddle."
+                    ]
+                },
+                {
+                    "step": "3",
+                    "title": "Float the compass.",
+                    "subtitle": " Fill a bowl or jar with a few inches of water and place the compass on the water. The magnetized needle will align itself with the earth's magnetic field to point north to south.",
+                    "sub-points": [
+                        "If a breeze hits the compass, it may have trouble aligning itself north to south. Try to shield the compass from wind by using a deeper jar or bowl.",
+                        "Currents will also disturb the direction of the compass, so you can't expect to get an accurate reading if you suspend it in a lake or pond. You might be able to use a still puddle."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Reading the Compass",
+            "steps": [
+                {
+                    "step": "2",
+                    "title": "Figure out which way is north.",
+                    "subtitle": " Since the magnetized needle points from north to south, you can't use it to figure out where east and west are located until you know which way is north. Use one of the following techniques to , then mark that side of the compass with a pen or pencil so you can use it to navigate in other directions:",
+                    "sub-points": [
+                        "Read the stars. Locate the North Star, the last star in the handle of the Little Dipper constellation. Draw an imaginary line from the North Star to the ground. The direction of the line is due north.",
+                        "Use the shadow method. Place a stick upright in the ground so you can see its shadow. Mark the spot where the tip of the shadow falls with a rock. Wait fifteen minutes, then mark the shadow's tip with a second rock. The line between the rocks is roughly east to west. If you stand with the first rock on your left and the second rock on your right, you are facing north."
+                    ]
+                },
+                {
+                    "step": "2",
+                    "title": "Figure out which way is north.",
+                    "subtitle": " Since the magnetized needle points from north to south, you can't use it to figure out where east and west are located until you know which way is north. Use one of the following techniques to , then mark that side of the compass with a pen or pencil so you can use it to navigate in other directions:",
+                    "sub-points": [
+                        "Read the stars. Locate the North Star, the last star in the handle of the Little Dipper constellation. Draw an imaginary line from the North Star to the ground. The direction of the line is due north.",
+                        "Use the shadow method. Place a stick upright in the ground so you can see its shadow. Mark the spot where the tip of the shadow falls with a rock. Wait fifteen minutes, then mark the shadow's tip with a second rock. The line between the rocks is roughly east to west. If you stand with the first rock on your left and the second rock on your right, you are facing north."
+                    ]
+                }
+            ]
+        }
+    ]
+}

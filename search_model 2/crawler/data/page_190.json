@@ -1,0 +1,111 @@
+{
+    "link": "https://www.wikihow.com/Do-Long-Division",
+    "article": "How to Do Long Division",
+    "intro": "A part of basic arithmetic, long division is a method of solving and finding the answer and remainder for division problems that involve numbers with at least two digits. Learning the basic steps of long division will allow you to ",
+    "points": [
+        {
+            "name": "Dividing",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Enter the first digit of the quotient.",
+                    "subtitle": " Put the number of times the divisor goes into the first digit (or digits) of the dividend above the appropriate digit(s).",
+                    "sub-points": [
+                        "It is important in long division to make sure the columns of numbers remain correctly aligned. Work carefully, otherwise you may make an error that leads you to the wrong answer.",
+                        "In the example, you would place a 4 above the 5, since we're putting 6 into 25."
+                    ]
+                },
+                {
+                    "step": "4",
+                    "title": "Enter the first digit of the quotient.",
+                    "subtitle": " Put the number of times the divisor goes into the first digit (or digits) of the dividend above the appropriate digit(s).",
+                    "sub-points": [
+                        "It is important in long division to make sure the columns of numbers remain correctly aligned. Work carefully, otherwise you may make an error that leads you to the wrong answer.",
+                        "In the example, you would place a 4 above the 5, since we're putting 6 into 25."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Multiplying",
+            "steps": []
+        },
+        {
+            "name": "Subtracting",
+            "steps": [
+                {
+                    "step": "3",
+                    "title": "Repeat the whole process.",
+                    "subtitle": " Divide the new number by your divisor, and write the result above the dividend as the next digit of the quotient.",
+                    "sub-points": [
+                        "In the example, determine how many times 6 can go into 10. Write that number (1) into the quotient above the dividend. Then multiply 6 by 1, and subtract the result from 10. You should end up with 4.",
+                        "If your dividend has more than three digits, keep repeating this process until you've worked through all of them. For example, if we we had started with 2,506 grams (88.4 oz) of mushrooms, we'd pull the 6 down next and place it next to the four."
+                    ]
+                },
+                {
+                    "step": "3",
+                    "title": "Repeat the whole process.",
+                    "subtitle": " Divide the new number by your divisor, and write the result above the dividend as the next digit of the quotient.",
+                    "sub-points": [
+                        "In the example, determine how many times 6 can go into 10. Write that number (1) into the quotient above the dividend. Then multiply 6 by 1, and subtract the result from 10. You should end up with 4.",
+                        "If your dividend has more than three digits, keep repeating this process until you've worked through all of them. For example, if we we had started with 2,506 grams (88.4 oz) of mushrooms, we'd pull the 6 down next and place it next to the four."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Remainders and Decimals",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Add the unit back to your answer.",
+                    "subtitle": " If you are working with units like pounds, gallons, or degrees, once you are done with all your calculations, add the unit to the end of your answer.",
+                    "sub-points": [
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams.",
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams."
+                    ]
+                },
+                {
+                    "step": "5",
+                    "title": "Add the unit back to your answer.",
+                    "subtitle": " If you are working with units like pounds, gallons, or degrees, once you are done with all your calculations, add the unit to the end of your answer.",
+                    "sub-points": [
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams.",
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Practice Problems and Answers",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Add the unit back to your answer.",
+                    "subtitle": " If you are working with units like pounds, gallons, or degrees, once you are done with all your calculations, add the unit to the end of your answer.",
+                    "sub-points": [
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams.",
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams."
+                    ]
+                },
+                {
+                    "step": "5",
+                    "title": "Add the unit back to your answer.",
+                    "subtitle": " If you are working with units like pounds, gallons, or degrees, once you are done with all your calculations, add the unit to the end of your answer.",
+                    "sub-points": [
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams.",
+                        "If you added a zero as a place-holder at the beginning, you should erase that now as well.",
+                        "In the example, because you asked how much each mushroom in a 250-gram pack of 6 weighs, you'll need to put your answer into grams. Therefore, your final answer is 41.67 grams."
+                    ]
+                }
+            ]
+        }
+    ]
+}

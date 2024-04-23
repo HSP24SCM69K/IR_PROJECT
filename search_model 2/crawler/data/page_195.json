@@ -1,0 +1,28 @@
+{
+    "link": "https://www.wikihow.com/Remove-a-Blank-Page-in-Word",
+    "article": "How to Remove a Blank Page in Word",
+    "intro": "This wikiHow article teaches you how to remove stubborn blank pages from anywhere in your Word document. Blank pages in the middle of your document are usually the result of hidden extra paragraphs or page breaks. If the blank page is at the end, it could be the same situation—however, it's also may be due to Word's hidden end paragraph feature. You can get rid of blank pages by making paragraph and page breaks markers visible and editing or deleting them manually.",
+    "points": [
+        {
+            "name": "Deleting a Blank Middle Page",
+            "steps": []
+        },
+        {
+            "name": "Deleting a Blank Last Page",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Press  on Windows or  on Mac again.",
+                    "subtitle": " This hides the paragraph markers again, which should delete the blank page at the end by fitting the hidden paragraph on the last page that contains content.",
+                    "sub-points": [
+                        "If you still have a blank page after this, you can reduce the  of the bottom margin instead. To do this, click the  tab, select , click , and change the bottom margin to  inches."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Saving as a PDF to Omit Last Blank Page",
+            "steps": []
+        }
+    ]
+}

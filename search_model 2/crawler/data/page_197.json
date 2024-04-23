@@ -1,0 +1,28 @@
+{
+    "link": "https://www.wikihow.com/Play-Minesweeper",
+    "article": "How to Play Minesweeper",
+    "intro": "This wikiHow teaches you how to play Minesweeper on a Windows computer. Although Minesweeper no longer comes pre-installed on Windows computers, you can download the remastered version from the Windows 10 Store for free.",
+    "points": [
+        {
+            "name": "Learning Minesweeper Mechanics",
+            "steps": []
+        },
+        {
+            "name": "Downloading Minesweeper",
+            "steps": []
+        },
+        {
+            "name": "Playing Minesweeper",
+            "steps": [
+                {
+                    "step": "9",
+                    "title": "Clear the board.",
+                    "subtitle": " To win a round of Minesweeper, you must click on the board every square that doesn't have a mine under it. Once you've done so, the game will be over.",
+                    "sub-points": [
+                        "If you accidentally click a square that has a mine beneath it, the game will be over. You'll have the option of starting a new game or redoing the one you just played."
+                    ]
+                }
+            ]
+        }
+    ]
+}

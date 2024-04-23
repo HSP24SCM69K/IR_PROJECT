@@ -1,0 +1,37 @@
+{
+    "link": "https://www.wikihow.com/Open-a-Combination-Lock",
+    "article": "How to Open a Combination Lock",
+    "intro": "A combination lock is useful for your school locker, gym locker, bike, or anything else that you'd like to keep safely locked up and away. Once you know your combination, opening a combination lock is very easy—just a couple turns to the left and right, and presto—the lock is open! If you want to know how to open a combination lock, just follow these steps.",
+    "points": [
+        {
+            "name": "Buying your Combination Lock",
+            "steps": [
+                {
+                    "step": "2",
+                    "title": "Find the combination on the sticker on the back of the lock.",
+                    "subtitle": " Most of the time, your new combination lock will come with a sticker on the back of the lock, telling you your lock's combination. Remove the sticker carefully. Write down the combination and throw out the sticker -- you don't want to leave the sticker around in case someone else finds it and knows it's the combination to a lock.",
+                    "sub-points": [
+                        "Start  your new locker combination. This will make it easier for you to consistently open the lock."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Opening the Combination Lock",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Open the lock.",
+                    "subtitle": " Pull up the shackle at the top of the lock, and it should open right up. You can also hold on to the shackle and pull down the lock.",
+                    "sub-points": [
+                        "If it doesn't , repeat the process from the beginning. Once you've partially engaged the tumblers, you should clear out the lock before trying again."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Locking the Combination Lock",
+            "steps": []
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "link": "https://www.wikihow.com/Use-an-ATM",
+    "article": "How to Use ATMs to Get Cash, Access Bank Accounts, & More",
+    "intro": "ATMs, a.k.a. “Automated Teller Machines,” make banking fast, simple, and reliable. You can use them for everything from getting cash, depositing checks, and even paying bills. If you haven’t used an ATM before, this guide will show you how easy it can be. Keep reading to learn how to use an atm with a debit card, how to withdraw cash or make deposits in different accounts, and how to pick the right ATM to avoid extra fees and save yourself money.",
+    "points": [
+        {
+            "name": "Accessing Your Account",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Enter your PIN when prompted.",
+                    "subtitle": " \"PIN\" stands for \"personal identification number,\" and it's typically a four- to six-digit password people use to access their bank account. Enter your PIN when asked to by the machine, making sure to shield the pad with your hand so that nearby onlookers can't see it.",
+                    "sub-points": [
+                        "The exact length of your PIN may vary depending on the financial institution associated with your ATM card.",
+                        "For security, never share your PIN with anyone."
+                    ]
+                },
+                {
+                    "step": "5",
+                    "title": "Enter your PIN when prompted.",
+                    "subtitle": " \"PIN\" stands for \"personal identification number,\" and it's typically a four- to six-digit password people use to access their bank account. Enter your PIN when asked to by the machine, making sure to shield the pad with your hand so that nearby onlookers can't see it.",
+                    "sub-points": [
+                        "The exact length of your PIN may vary depending on the financial institution associated with your ATM card.",
+                        "For security, never share your PIN with anyone."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Withdrawals, Deposits, & Other Transactions",
+            "steps": [
+                {
+                    "step": "6",
+                    "title": "Take your card, cash, and receipt.",
+                    "subtitle": " It's easy to forget to take your money, card, or receipt when you're in a hurry. Be sure to grab these and put them away safely in your wallet or purse. Depending on the ATM, you may be asked if you want a printed receipt. Hit “Yes” to obtain a printed copy, or hit “No” if you prefer to review the transaction later via your bank’s website.",
+                    "sub-points": [
+                        "If you forget your card, return to the ATM right away to retrieve it. If it’s lost, call your bank and cancel the card right away. Your bank will issue you a new card."
+                    ]
+                }
+            ]
+        }
+    ]
+}

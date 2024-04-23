@@ -1,0 +1,37 @@
+{
+    "link": "https://www.wikihow.com/Pick-a-Lock",
+    "article": "How to Pick a Lock",
+    "intro": "Lock picking is an incredibly useful skill and it can be a lifesaver if you lose or forget your keys. With some simple tools and a little patience, you can ",
+    "points": [
+        {
+            "name": "Preparing a Lock for Picking",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": ".",
+                    "subtitle": " Pins in the lock may be frozen from lack of use. Dirtiness can make the lock mechanism difficult to manipulate. Resolve these problems and give yourself the best chance of picking the lock by applying lock lubricant to it.",
+                    "sub-points": [
+                        "Many kinds of lock lubricant have simple spray applicators that allow you to direct lubricant into the keyway."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Solving a Common Tumbler Lock",
+            "steps": []
+        },
+        {
+            "name": "Using the Raking Technique",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Draw your rake-tool back and forth along unset pins.",
+                    "subtitle": " Rake the pins as described previously. While keeping pressure consistent with your tension wrench, use the tip of the tool to \"scrub\" unset pins. If the pins refuse to set, release pressure with your wrench and start again. Continue until the lock disengages and opens.",
+                    "sub-points": [
+                        "When most of the pins are set, you may need to increase the pressure on your tension wrench and lightly intensify scrubbing."
+                    ]
+                }
+            ]
+        }
+    ]
+}

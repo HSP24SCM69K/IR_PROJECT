@@ -1,0 +1,33 @@
+{
+    "link": "https://www.wikihow.com/Read-a-Sundial",
+    "article": "How to Read a Sundial",
+    "intro": "Sundials have been used to measure time, based on the Sun, for thousands of years. This simple device can be made up of nothing but a flat dial and a gnomon (the “pointer” that casts the shadow), but can still be tricky to read if you’re just starting out. By setting up your sundial correctly and completing a few simple calculations, you can synchronize your sundial to clock time and know the hour no matter where you are.",
+    "points": [
+        {
+            "name": "Pointing Your Sundial",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Use a vertical sundial if you’re at the equator.",
+                    "subtitle": " The angle of the sun makes it very difficult to use a traditional horizontal sundial along the equator. Instead, use a vertical sundial and follow the packaging instructions to set it up and point the gnomon correctly. ",
+                    "sub-points": [
+                        "At the equator, the sun rises along the eastern horizon and moves straight up, then sets on the western horizon. If you used a horizontal sundial, the shadow would fall mostly west in the morning and mostly east in the afternoon, instead of rotating slowly."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Calculating Clock Time from a Sundial",
+            "steps": [
+                {
+                    "step": "6",
+                    "title": "Calculate the Equation of Time to find the exact time.",
+                    "subtitle": " The length of one day varies slightly on any given day, which can add up to make your sundial’s time differ from clock time by as much as 15 minutes. If you want the most exact time estimate from your sundial, adjust your measurement using an Equation of Time table. Search for one online and either add to or subtract from the time as instructed.",
+                    "sub-points": [
+                        "Most calculators require you to enter in your year and longitude or time zone. The calculator will then give you a table telling your how to adjust your sundial time throughout the year."
+                    ]
+                }
+            ]
+        }
+    ]
+}

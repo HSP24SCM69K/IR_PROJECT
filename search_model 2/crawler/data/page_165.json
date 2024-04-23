@@ -1,0 +1,37 @@
+{
+    "link": "https://www.wikihow.com/Play-Go-Fish",
+    "article": "How to Play Go Fish",
+    "intro": "Go Fish is a super fun game you can play with your friends, and it doesn’t take long to learn the rules! Play with 2 to 6 people, and focus on getting 4-of-a-kind matches so you can be the first one to lay down all your cards. There are some cool ways to change up how you play each hand, so you’ll never get bored with this classic card game.",
+    "points": [
+        {
+            "name": "Starting the Game",
+            "steps": []
+        },
+        {
+            "name": "Taking Turns",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Pick up one card from the fishing pond whenever you have to “go fish.”",
+                    "subtitle": " It actually isn’t a horrible thing to have to pull a card from the fishing pond, especially at the beginning of the game. It’ll give you more cards to play with and could help you get more matches.",
+                    "sub-points": [
+                        "You have to keep the card you pulled, even if it isn’t one you want. You can’t throw it back and pick another one."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Winning the Game",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "End the game if the fishing pond is empty, even if no one has “won.”",
+                    "subtitle": " This is an optional ending that can be good to use if you like really fast-paced games. You could always decide that the person with the most matches at that time won the game, or it could just be a draw.",
+                    "sub-points": [
+                        "You could also choose to keep playing even after the fishing pond is empty. You’ll just take turns trying to get cards from your opponents without having to “go fish” at the end of your turn."
+                    ]
+                }
+            ]
+        }
+    ]
+}

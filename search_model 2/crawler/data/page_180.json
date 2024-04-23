@@ -1,0 +1,24 @@
+{
+    "link": "https://www.wikihow.com/Add-Venmo-to-Wallet",
+    "article": "Easily Add Venmo to Wallet: Debit Card or Apple Cash",
+    "intro": "If you use Venmo often, you may be wondering if it's possible to connect your Venmo account to your Apple Wallet. While you cannot connect your ",
+    "points": [
+        {
+            "name": "Adding Venmo Debit Card to Apple Wallet",
+            "steps": [
+                {
+                    "step": "6",
+                    "title": "Wait for the card to be verified.",
+                    "subtitle": " This should only take a few moments, and once it completes, your Venmo debit card will be added to Apple Wallet and can be used anywhere Apple Pay is accepted.",
+                    "sub-points": [
+                        "Note that the Venmo debit card pulls from your Venmo balance, so you must have a Venmo balance to use the card."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Moving Money from Venmo to Apple Cash",
+            "steps": []
+        }
+    ]
+}
