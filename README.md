@@ -231,6 +231,8 @@ craeted json files:
 4. "Inverted Index." GeeksforGeeks, GeeksforGeeks, 11 Mar. 2024, [www.geeksforgeeks.org/inverted-index/](https://www.geeksforgeeks.org/inverted-index/).
 
 5. Logunova, Inna. "Word2Vec: Why Do We Need Word Representations?" Word2Vec: Explanation and Examples, Serokell, 9 May 2023, [serokell.io/blog/word2vec](https://serokell.io/blog/word2vec).
+   
+6. Vembunarayanan, Jana, et al. “TF-IDF and Cosine Similarity.” Seeking Wisdom, 16 Nov. 2016, [janav.wordpress.com/2013/10/27/tf-idf-and-cosine-similarity/](https://janav.wordpress.com/2013/10/27/tf-idf-and-cosine-similarity/).
 
 
 
